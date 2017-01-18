@@ -1,4 +1,8 @@
-.red {
+red {
     color: red;
     font-weight: bold;
+}
+
+.red {
+    color: green;
 }
