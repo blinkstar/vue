@@ -1,11 +1,3 @@
-.summary ul {
-    display: none;
-}
-
-.summary .active ul {
-    display: block;
-}
-
 red {
     color: red;
     font-weight: bold;
